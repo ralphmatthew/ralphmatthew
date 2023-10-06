@@ -4,9 +4,9 @@
 - 💞️ I’m **interested** in **Data Science, Software, Web** and **Game Development.**
 - 🖥️ My **Programming Languages** are **Python, R and HTML**. I'm currently learning **CSS and Java.**
 - 📫 How to reach me:
-  -   **Discord:** @matcho_o
-  -  ** Facebook:** https://www.facebook.com/ralphmatthewww/
-  -  ** LinkedIn:** https://www.linkedin.com/in/ralph-matthew-sabuco-17783b27b/
+  -  **Discord:** @matcho_o
+  -  **Facebook:** https://www.facebook.com/ralphmatthewww/
+  -  **LinkedIn:** https://www.linkedin.com/in/ralph-matthew-sabuco-17783b27b/
 
 - 🥽 Credits to **Jonah Lawrence** for the customizable SVG.
 <!---
