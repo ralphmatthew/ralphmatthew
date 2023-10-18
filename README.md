@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Ralph Matthew V. Sabuco (@ralphmatthew)** a **second year Computer Engineering student from Polytechnic University of the Philippines- Manila Campus.**
 - 💞️ I’m **interested** in **Data Science, Software, Web** and **Game Development.**
-- 🖥️ My **Programming Languages** are **Python, R and HTML**. I'm currently learning **CSS and Java.**
+- 🖥️ My **Programming Languages** are **Python and R**. I'm currently learning **C++ and Java.**
 - 📫 How to reach me:
   -  **Discord:** @matcho_o
   -  **Facebook:** https://www.facebook.com/ralphmatthewww/
